@@ -1,2 +1,4 @@
 print("Hello World")
-print("EOF")
+for _ in range(10):
+    print("bye")
+print("end")
